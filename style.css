@@ -1,0 +1,41 @@
+body {
+    background: #fff4e5;
+    font-family: 'Fraunces';
+}
+
+#heading {
+    text-align: center;
+    color: #8F3F12;
+
+}
+
+#stinky {
+    text-align: center;
+    color: #8F3F12;
+}
+
+#menu {
+    text-align: center;
+    border: none;
+    width: 500px;
+    height: 300px;
+    background-color: #FFDEB5;
+    margin: 0 auto;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#menu ul {
+    padding: 16px 24px 48px;
+    margin: 0;
+}
+
+#menu li+li {
+    margin-top: 24px;
+}
+
+#RSVP {
+    color: #8F3F12;
+}
